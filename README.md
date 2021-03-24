@@ -20,6 +20,7 @@ $ git clone https://gitea.skynode.me/nerdthatnoonelikes/download-manager.git
 ```bash
 $ cd download-manager
 $ cargo build
+# You probably have to use sudo
 $ cp target/debug/download-manager /usr/bin
 ```
 
